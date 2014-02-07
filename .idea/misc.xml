@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="IdProvider" IDEtalkID="045875957EC9762B7CE032DDE5D9069B" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="jruby-1.7.4-p392" project-jdk-type="JRUBY_SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
+
