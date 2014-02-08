@@ -1,221 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$CLASS$/Users/patrick/IdeaProjects/cucumber-utilities/features/step_definitions/my_steps.rb" line="42" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="90008703-b5f5-42b7-86d5-cc219a8cb586" name="Default" comment="updated user sees trip details selection">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/default.log" afterPath="$PROJECT_DIR$/default.log" />
+    <list default="true" id="c65d2e9f-4449-490f-b119-f213dbf5929a" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\patrick\subversion\tempo\logger-2013\.idea\workspace.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logger.iml" afterPath="$PROJECT_DIR$/logger.iml" />
     </list>
-    <ignored path="felix-features-2013.iws" />
+    <ignored path="logger-2013.iws" />
     <ignored path=".idea/workspace.xml" />
-    <ignored path=".idea/" />
-    <ignored path="felix-features-2013.iml" />
-    <ignored mask="*.iml" />
-    <ignored path="feature.log" />
-    <ignored path="cucumber_helper.log" />
-    <ignored mask="*.log" />
-    <file path="/Dummy.txt" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1391816677324" ignored="false" />
-    <file path="/felix_steps.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1380284985726" ignored="false" />
-    <file path="/(1)  Book a package.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378132605693" ignored="false" />
-    <file path="/(1-1)  Specify trip information.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378132866566" ignored="false" />
-    <file path="/(1-1-1) Show package categories and departure airport choices.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378135179107" ignored="false" />
-    <file path="/Book a package.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378281894592" ignored="false" />
-    <file path="/Specify trip information.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378136060587" ignored="false" />
-    <file path="/Show package categories.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378136183489" ignored="false" />
-    <file path="/Pick a trip and check availaibility.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378135490073" ignored="false" />
-    <file path="/Pick a package category" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378136854701" ignored="false" />
-    <file path="/Pick a departure airport" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378136572644" ignored="false" />
-    <file path="/Pick a package destination.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378137386036" ignored="false" />
-    <file path="/Pick a departure airport.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378157022977" ignored="false" />
-    <file path="/Pick package dates.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378137512768" ignored="false" />
-    <file path="/Pick package duration.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378137594578" ignored="false" />
-    <file path="/book_a_package_steps.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378138070167" ignored="false" />
-    <file path="/support.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379001755534" ignored="false" />
-    <file path="/Pick options.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378141738276" ignored="false" />
-    <file path="/Pick a trip.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378195264155" ignored="false" />
-    <file path="/fragment.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1391638873578" ignored="false" />
-    <file path="/test_cucumber.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378198840738" ignored="false" />
-    <file path="/runtime.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378198675357" ignored="false" />
-    <file path="/test.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378928476460" ignored="false" />
-    <file path="/Approve the booking.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378203184688" ignored="false" />
-    <file path="/more_steps.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378999242379" ignored="false" />
-    <file path="/feature_description.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378304223546" ignored="false" />
-    <file path="/utility_needs_conversion_between_features_and_filenames.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378289230426" ignored="false" />
-    <file path="/env.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1391641341898" ignored="false" />
-    <file path="/my_steps.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1381673117318" ignored="false" />
-    <file path="/system_transforms_names.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378295617077" ignored="false" />
-    <file path="/system_finds_features.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378299567697" ignored="false" />
-    <file path="/source.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378313755289" ignored="false" />
-    <file path="/feature_1.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378301539636" ignored="false" />
-    <file path="/system_checks_for_mismatched_names.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378312151192" ignored="false" />
-    <file path="/system_checks_for_feature_names.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378302609655" ignored="false" />
-    <file path="/temp.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378304090480" ignored="false" />
-    <file path="/cucumber_helper.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379346586658" ignored="false" />
-    <file path="/system_checks_for_missing_features.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378312123289" ignored="false" />
-    <file path="/system_checks_for_extra_features.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378999044770" ignored="false" />
-    <file path="/feature_2.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378307147947" ignored="false" />
-    <file path="/meta_steps.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379354337251" ignored="false" />
-    <file path="/system_checks_feature_names.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378920443143" ignored="false" />
-    <file path="/Utility logs message.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378325235059" ignored="false" />
-    <file path="/logger_steps.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378916778924" ignored="false" />
-    <file path="/logger.properties" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378328433174" ignored="false" />
-    <file path="/logger.xml" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378748940304" ignored="false" />
-    <file path="/a.rxml" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378329834110" ignored="false" />
-    <file path="/logger_helper.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378376193335" ignored="false" />
-    <file path="/a.dummy" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386689581425" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/services/HotelsManager.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378377369621" ignored="false" />
-    <file path="/HotelsManager.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378377368044" ignored="false" />
-    <file path="/first.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378755487847" ignored="false" />
-    <file path="/Logger configures itself.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378894970295" ignored="false" />
-    <file path="/tms.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378751726571" ignored="false" />
-    <file path="/Logger.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378752094698" ignored="false" />
-    <file path="/logger.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378896776831" ignored="false" />
-    <file path="/fragment.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386689876404" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/test/UserFlightSelectionTest.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379257362836" ignored="false" />
-    <file path="/Devices receive logs.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378903990814" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/model/FlightSelection.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378821931085" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/test/TestDataMockWebPages.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378822501419" ignored="false" />
-    <file path="/TestDataMockWebPages.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378822243250" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/test/TestDataWebPages.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378829577726" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/test/UserFlightSelectionIntegrationTest.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379257444377" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/applicationContext-pagesWebData.xml" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378831423068" ignored="false" />
-    <file path="/applicationContext-pagesWebData.xml" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378831423068" ignored="false" />
-    <file path="/UserFlightSelectionTest.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378833918954" ignored="false" />
-    <file path="/UserFlightSelectionIntegrationTest.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378834369028" ignored="false" />
-    <file path="/feature.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1381658542701" ignored="false" />
-    <file path="/Pick passenger counts.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378935563198" ignored="false" />
-    <file path="/user_picks_options.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378935808127" ignored="false" />
-    <file path="/user_picks_a_trip.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1387289762156" ignored="false" />
-    <file path="/user_books_a_package.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379018844427" ignored="false" />
-    <file path="/pick_a_package_category.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378981001886" ignored="false" />
-    <file path="/pick_a_departure_airport.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378980685666" ignored="false" />
-    <file path="/user_access_the_search_page.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378986067613" ignored="false" />
-    <file path="/user_approves_booking.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1378999089345" ignored="false" />
-    <file path="/user_accesses_the_search_page.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1380218797491" ignored="false" />
-    <file path="/user_picks_a_departure_airport.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1380219235571" ignored="false" />
-    <file path="/user_picks_a_package_category.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1380219245405" ignored="false" />
-    <file path="/user_picks_a_package_date.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379259194098" ignored="false" />
-    <file path="/user_picks_a_package_destination.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379258622143" ignored="false" />
-    <file path="/user_picks_a_package_duration.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379258983774" ignored="false" />
-    <file path="/User specifies passenger counts.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379000057361" ignored="false" />
-    <file path="/user_sees_trip_details_selection.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379335857203" ignored="false" />
-    <file path="/user_sees_next_option_after_trip_selection.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379000498898" ignored="false" />
-    <file path="/user_sees_the_next_choice_after_trip_selection.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379332717929" ignored="false" />
-    <file path="/user_picks_a_trip_steps.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386792206319" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/itinerary/basic/FlightServiceNameTest.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379094697023" ignored="false" />
-    <file path="/FlightServiceNameTest.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379094681037" ignored="false" />
-    <file path="/user_books_a_trip.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1389860815255" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/itinerary/basic/FlightServiceNameConvert.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379261370996" ignored="false" />
-    <file path="/FlightServiceNameConvert.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379256378824" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/itinerary/basic/FlightServiceName.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379430045971" ignored="false" />
-    <file path="/FlightServiceName.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379430044549" ignored="false" />
-    <file path="/log4j.properties" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379257031241" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/log4j.properties" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379257031241" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/uu3.iml" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379257101091" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/applicationContext-pagesWebDataGenerator.xml" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379257301163" ignored="false" />
-    <file path="/user_sees_booking_confirmation.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379259343702" ignored="false" />
-    <file path="/user_specifies_passengers.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379259395477" ignored="false" />
-    <file path="/user_specifies_payment_information.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379259450207" ignored="false" />
-    <file path="/user_specifies_passenger_counts.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379264830993" ignored="false" />
-    <file path="/user_accepts_trip_details.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1389862690800" ignored="false" />
-    <file path="/something.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379358121004" ignored="false" />
-    <file path="/browser.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379415752951" ignored="false" />
-    <file path="/applicationContext-itinerarySelfTest.xml" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1380271032940" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/applicationContext-itinerarySelfTest.xml" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1380271032940" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/itinerary/db/PackageDetailData.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379429144706" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/itinerary/fixtures/results/ItineraryFlightTestResults.xml" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379435362139" ignored="false" />
-    <file path="/web_socket_server.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379483846329" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/test/suites/inputs/applicationContext-packageSamplesSetA.xml" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386343971986" ignored="false" />
-    <file path="$CLASS$/Users/patrick/IdeaProjects/Download/features/user_logs_in.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379587878567" ignored="false" />
-    <file path="$CLASS$/Users/patrick/IdeaProjects/Download/features/step_definitions/meta_steps.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379588898793" ignored="false" />
-    <file path="$CLASS$/Users/patrick/IdeaProjects/Download/features/step_definitions/steps.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379602032403" ignored="false" />
-    <file path="$CLASS$/Users/patrick/IdeaProjects/Download/features/system_logs_the_user_in.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379597306931" ignored="false" />
-    <file path="/user_logs_in.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379588797402" ignored="false" />
-    <file path="/steps.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379602030907" ignored="false" />
-    <file path="$CLASS$/Users/patrick/IdeaProjects/Download/features/support/env.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379598197539" ignored="false" />
-    <file path="/system_logs_the_user_in.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379597716686" ignored="false" />
-    <file path="$CLASS$/Users/patrick/IdeaProjects/Download/features/system_finds_the_list_of_files.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379597717343" ignored="false" />
-    <file path="/system_finds_the_list_of_files.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379597516495" ignored="false" />
-    <file path="$CLASS$/Users/patrick/IdeaProjects/Download/logs/features.log" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1379597981661" ignored="false" />
-    <file path="$CLASS$/Users/patrick/IdeaProjects/english-game-authorization/features/feature.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1381660945296" ignored="false" />
-    <file path="$CLASS$/Users/patrick/IdeaProjects/english-game-authorization/features/step_definitions/my_steps.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1381673122252" ignored="false" />
-    <file path="$CLASS$/Users/patrick/IdeaProjects/english-game-authorization/features/support/env.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1381672998982" ignored="false" />
-    <file path="$CLASS$/Users/patrick/IdeaProjects/english-game-authorization/features/feature2.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1381659175196" ignored="false" />
-    <file path="/feature2.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1381659175196" ignored="false" />
-    <file path="$CLASS$/Users/patrick/IdeaProjects/english-game-authorization/features/support/logging.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1381672728280" ignored="false" />
-    <file path="$CLASS$/Users/patrick/IdeaProjects/english-game-authorization/.idea/workspace.xml" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1381673176109" ignored="false" />
-    <file path="$CLASS$/Users/patrick/IdeaProjects/english-game-authorization/logs/feature.log" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1381673244874" ignored="false" />
-    <file path="$CLASS$/Users/patrick/IdeaProjects/english-game-authorization/logs/features.log" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1381673140334" ignored="false" />
-    <file path="/*.regexp" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1391639437838" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/itinerary/basic/StopOverTripActions.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386330912175" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/itinerary/basic/StopOverTrip.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386330903671" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/itinerary/basic/support/TripOptionsTest.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386331010453" ignored="false" />
-    <file path="/TripOptionsTest.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386331004079" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/itinerary/basic/TestDataHotels.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386331657037" ignored="false" />
-    <file path="/TestDataHotels.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386331653871" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/itinerary/basic/support/TripStopChoices.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386689273810" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/itinerary/basic/support/TripStopChoicesHotelComparator.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386332249864" ignored="false" />
-    <file path="/TripStopChoicesHotelComparator.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386332229849" ignored="false" />
-    <file path="/PackageSamples.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386332864693" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/test/suites/inputs/PackageSamples.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386332865817" ignored="false" />
-    <file path="/applicationContext-packageSamplesSetA.xml" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386342675521" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/test/suites/booking/AvailabilityTest.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386345327406" ignored="false" />
-    <file path="/AvailabilityTest.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386345298983" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/test/suites/basic/DestinationsTest.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386692568616" ignored="false" />
-    <file path="/DestinationsTest.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386692556667" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/test/suites/support/AvailabilityHelper.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386345457234" ignored="false" />
-    <file path="/AvailabilityHelper.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386345456510" ignored="false" />
-    <file path="/AccommodationComparator.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386345514210" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/itinerary/basic/support/AccommodationComparator.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386689062593" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/itinerary/basic/support/Accommodation.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386690596545" ignored="false" />
-    <file path="/Accommodation.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386690490959" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/model/Constants.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386672028847" ignored="false" />
-    <file path="/Constants.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386672020049" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/itinerary/basic/support/TripOptions.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386696879944" ignored="false" />
-    <file path="/TripOptions.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386696775524" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/itinerary/basic/support/TripOptionsState.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386689723965" ignored="false" />
-    <file path="/TripOptionsState.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386689723965" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/itinerary/basic/support/TripStopChoicesState.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386682998739" ignored="false" />
-    <file path="/TripStopChoicesState.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386675698305" ignored="false" />
-    <file path="/TripStopChoices.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386689273810" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/itinerary/advanced/ServicesForDestination.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386689375433" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/itinerary/advanced/SuperTripTest.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386687815480" ignored="false" />
-    <file path="/ServicesForDestination.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386689366683" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/services/HotelsManagerSS.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386687815479" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/itinerary/advanced/SuperTrip.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386692376349" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/test/secondary/AvailabilityListTest.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386687850564" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/test/suites/inputs/FlushAvailability.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386687815480" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/itinerary/advanced/ServicesForDestinationStates.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386688981835" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/itinerary/advanced/SuperTripActions.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386689877080" ignored="false" />
-    <file path="/SuperTripActions.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386688404418" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/itinerary/web/PackagesManagerTest.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386688046024" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/felix/main/WEB-INF/src/is/origo/uu/services/FlightsManagerSS.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386687810421" ignored="false" />
-    <file path="/ServicesForDestinationStates.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386688467091" ignored="false" />
-    <file path="/SuperTrip.java" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1386692260299" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/tempo/Tempo401/features/somebody_does_something.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1389857976831" ignored="false" />
-    <file path="/somebody_does_something.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1389857976831" ignored="false" />
-    <file path="$CLASS$/Users/patrick/subversion/tempo/Tempo401/features/support/env.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1389857819696" ignored="false" />
-    <file path="$CLASS$/Users/patrick/IdeaProjects/felix-features-2013/features/user_books_a_trip/user_picks_a_trip/user_accepts_trip_details.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1389862808269" ignored="false" />
-    <file path="$CLASS$/Users/patrick/IdeaProjects/felix-features-2013/features/user_books_a_trip/user_picks_a_trip/user_picks_a_departure_airport.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1389862422782" ignored="false" />
-    <file path="$CLASS$/Users/patrick/IdeaProjects/felix-features-2013/features/step_definitions/meta_steps.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1389862567973" ignored="false" />
-    <file path="/user_logs_into_jira.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1390298983841" ignored="false" />
-    <file path="/login_steps.rb" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1389976585257" ignored="false" />
-    <file path="/user_logs_work.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1390000087188" ignored="false" />
-    <file path="/leader_allocates_team.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1389943426992" ignored="false" />
-    <file path="$PROJECT_DIR$/features/timesheets/something_steps.rb.groovy" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1390000022293" ignored="false" />
-    <file path="/manager_allocates_team.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1390060048889" ignored="false" />
-    <file path="/leader_allocates_person.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1390060085912" ignored="false" />
-    <file path="/user_allocates_resource.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1390304640968" ignored="false" />
-    <file path="/user_plans_work.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1390455311248" ignored="false" />
-    <file path="/user_plans_work_on_sprint.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1390318828019" ignored="false" />
-    <file path="/user_review_team_utilization.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1390458894053" ignored="false" />
-    <file path="/user_creates_a_planned_work_item_for_a_team.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1390462204521" ignored="false" />
-    <file path="/user_plans_work_a_team_does.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1390460212196" ignored="false" />
-    <file path="/user_plans_team_utilization.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1390461107914" ignored="false" />
-    <file path="/user_view_the_team_planning_board.feature" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1390461416774" ignored="false" />
-    <file path="/README.md" changelist="90008703-b5f5-42b7-86d5-cc219a8cb586" time="1390465479815" ignored="false" />
+    <file path="/Dummy.txt" changelist="c65d2e9f-4449-490f-b119-f213dbf5929a" time="1391876842634" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,11 +15,6 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
-  <component name="Commander">
-    <leftPanel />
-    <rightPanel />
-    <splitter proportion="0.5" />
-  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -235,7 +22,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+    <breakpoint_any>
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
         <option name="NOTIFY_UNCAUGHT" value="true" />
@@ -271,101 +58,15 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="felix-features-2013" />
+    <favorites_list name="logger-2013" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="LICENSE" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LICENSE">
-          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="113" column="17" selection-start="5572" selection-end="5572" vertical-scroll-proportion="-11.48">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="meta_steps.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$CLASS$/Users/patrick/IdeaProjects/cucumber-utilities/features/step_definitions/meta_steps.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default-140206-1859-53322.log" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/default-140206-1859-53322.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logger.iml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logger.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.log" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/default.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default-140207-2339-13954.log" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$CLASS$/Users/patrick/IdeaProjects/logger/default-140207-2339-13954.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default-140207-2138-05955.log" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$CLASS$/Users/patrick/IdeaProjects/logger/default-140207-2138-05955.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.log" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$CLASS$/Users/patrick/IdeaProjects/logger/default.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logger.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$CLASS$/Users/patrick/IdeaProjects/logger/source/logger.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="29" selection-start="43" selection-end="43" vertical-scroll-proportion="0.10493827">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -373,11 +74,9 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="SYNC_SETTING" value="DONT" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitLogSettings">
-    <option name="myStructureFilterPaths" />
     <option name="myDateState">
       <MyDateState />
     </option>
@@ -385,124 +84,24 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/features/planner/user_allocates_resource.feature" />
-        <option value="$PROJECT_DIR$/features/planner/user_plans_work/user_plans_work_on_sprint.feature" />
-        <option value="$PROJECT_DIR$/features/planner/user_plans_work.feature" />
-        <option value="$PROJECT_DIR$/features/user_review_team_utilization.feature" />
-        <option value="$PROJECT_DIR$/features/planner/user_review_team_utilization.feature" />
-        <option value="$PROJECT_DIR$/features/user_logs_into_jira.feature" />
-        <option value="$PROJECT_DIR$/features/user_plans_team_utilization.feature" />
-        <option value="$PROJECT_DIR$/features/planner/user_view_the_team_planning_board.feature" />
-        <option value="$PROJECT_DIR$/features/planner/user_views_the_team_planning_board.feature" />
-        <option value="$PROJECT_DIR$/features/planner/user_plans_work/user_creates_a_planned_work_item_for_a_team.feature" />
-        <option value="$PROJECT_DIR$/features/planner/user_reviews_team_utilization.feature" />
-        <option value="$PROJECT_DIR$/features/planner/user_plans_work_a_team_does.feature" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/dummy.html" />
-        <option value="$PROJECT_DIR$/features/step_definitions/login_steps.rb" />
-        <option value="$PROJECT_DIR$/features/support/env.rb" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1612" />
     <option name="height" value="876" />
   </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>CSS</id>
-          </State>
-          <State>
-            <id>Code style issues</id>
-          </State>
-          <State>
-            <id>Data flow issues</id>
-          </State>
-          <State>
-            <id>Data flow issuesJavaScript</id>
-          </State>
-          <State>
-            <id>GPath inspectionsGroovy</id>
-          </State>
-          <State>
-            <id>Groovy</id>
-          </State>
-          <State>
-            <id>JRuby</id>
-          </State>
-          <State>
-            <id>JUnit issues</id>
-          </State>
-          <State>
-            <id>Java language level migration aids</id>
-          </State>
-          <State>
-            <id>JavaScript</id>
-          </State>
-          <State>
-            <id>Naming ConventionsGroovy</id>
-          </State>
-          <State>
-            <id>Naming ConventionsRuby</id>
-          </State>
-          <State>
-            <id>Naming conventions</id>
-          </State>
-          <State>
-            <id>Naming conventionsJavaScript</id>
-          </State>
-          <State>
-            <id>Numeric issues</id>
-          </State>
-          <State>
-            <id>Probable bugs</id>
-          </State>
-          <State>
-            <id>Probable bugsGroovy</id>
-          </State>
-          <State>
-            <id>Probable bugsJavaScript</id>
-          </State>
-          <State>
-            <id>Rails</id>
-          </State>
-          <State>
-            <id>Ruby</id>
-          </State>
-          <State>
-            <id>UI Form Problems</id>
-          </State>
-          <State>
-            <id>XPath</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>Abstraction issues</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <OptionsSetting value="true" id="Undo Check Out" />
-    <OptionsSetting value="true" id="Get Latest Version" />
-    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -516,64 +115,11 @@
       <showLibraryContents />
       <hideEmptyPackages />
       <abbreviatePackageNames />
-      <autoscrollToSource PackagesPane="false" />
-      <autoscrollFromSource PackagesPane="true" ProjectPane="false" />
+      <autoscrollToSource />
+      <autoscrollFromSource />
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="felix-features-2013" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="felix-features-2013" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cucumber-features-2014" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="felix-features-2013" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cucumber-features-2014" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="features" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="felix-features-2013" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cucumber-features-2014" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="features" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="support" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -608,276 +154,35 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="217" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="219" />
-    <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="220" />
-    <property name="MemberChooser.sorted" value="false" />
-    <property name="recentsLimit" value="5" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/logger.iml" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="221" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="853" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="854" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="220" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="218" />
-    <property name="GoToClass.includeJavaFiles" value="false" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
-    <property name="MemberChooser.showClasses" value="true" />
-    <property name="FullScreen" value="false" />
-    <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="project.structure.side.proportion" value="0.44027305" />
-    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="restartRequiresConfirmation" value="true" />
-    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PublishConfig">
     <servers>
       <server id="f0e597ca-e562-4550-9e24-320ca842a94a">
         <serverdata>
           <mappings>
-            <mapping local="$CLASS$/Users/patrick/IdeaProjects/cucumber-utilities" />
-            <mapping local="$CLASS$/Users/patrick/IdeaProjects/logger" />
             <mapping local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </server>
     </servers>
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\patrick\IdeaProjects\felix-features-2013\features\step_definitions" />
-      <recent name="C:\Users\patrick\IdeaProjects\felix-features-2013\features\support" />
-      <recent name="C:\Users\patrick\IdeaProjects\felix-features-2013\features" />
-      <recent name="C:\Users\patrick\IdeaProjects\felix-features-2013\features\meta" />
-      <recent name="C:\Users\patrick\IdeaProjects\cucumber-utilities\test_directories" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\patrick\subversion\tempo\tempo-features-2014\features\sandbox" />
-      <recent name="C:\Users\patrick\subversion\tempo\tempo-features-2014\features\planner" />
-      <recent name="C:\Users\patrick\subversion\tempo\tempo-features-2014\features\planner\leader_allocates_resource" />
-      <recent name="C:\Users\patrick\subversion\tempo\tempo-features-2014\features\step_definitions" />
-      <recent name="C:\Users\patrick\subversion\cucumber-features-2013\features\step_definitions" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Cucumber.All features in: features">
-    <configuration default="false" name="All features in: meta" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
-      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
-      <module name="felix-features-2013" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="ANSICON" value="" />
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="ALL_IN_FOLDER" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="$PROJECT_DIR$/features/meta" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
-      <RunnerSettings RunnerId="RubyRunner" />
-      <ConfigurationWrapper RunnerId="RubyRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="somebody_does_something" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
-      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
-      <module name="tempo-features-2014" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="ANSICON" value="" />
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/features/somebody_does_something.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
-      <RunnerSettings RunnerId="RubyRunner" />
-      <ConfigurationWrapper RunnerId="RubyRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="system_checks_for_mismatched_names" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
-      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
-      <module name="tempo-features-2014" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="ANSICON" value="" />
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/features/meta/system_checks_for_mismatched_names.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
-      <RunnerSettings RunnerId="RubyRunner" />
-      <ConfigurationWrapper RunnerId="RubyRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="user_logs_into_jira" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
-      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
-      <module name="tempo-features-2014" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="ANSICON" value="" />
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/features/user_logs_into_jira.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
-      <RunnerSettings RunnerId="RubyRunner" />
-      <ConfigurationWrapper RunnerId="RubyRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="All features in: features" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
-      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
-      <module name="logger" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="ANSICON" value="" />
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="ALL_IN_FOLDER" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="$PROJECT_DIR$/features" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
-      <RunnerSettings RunnerId="RubyRunner" />
-      <ConfigurationWrapper RunnerId="RubyRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
       <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
-    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
-      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
-      <module name="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -886,44 +191,6 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
-      <module name="" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
-      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
-      <module name="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -982,37 +249,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
-      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
-      <module name="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="ANSICON" value="" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
-      <method />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1034,155 +270,50 @@
       <patterns />
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Cucumber.All features in: meta" />
-      <item index="1" class="java.lang.String" itemvalue="Cucumber.somebody_does_something" />
-      <item index="2" class="java.lang.String" itemvalue="Cucumber.system_checks_for_mismatched_names" />
-      <item index="3" class="java.lang.String" itemvalue="Cucumber.user_logs_into_jira" />
-      <item index="4" class="java.lang.String" itemvalue="Cucumber.All features in: features" />
-    </list>
-    <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Cucumber.All features in: features" />
-        <item index="1" class="java.lang.String" itemvalue="Cucumber.All features in: features" />
-        <item index="2" class="java.lang.String" itemvalue="Cucumber.All features in: features" />
-        <item index="3" class="java.lang.String" itemvalue="Cucumber.user_logs_into_jira" />
-        <item index="4" class="java.lang.String" itemvalue="Cucumber.user_logs_into_jira" />
-      </list>
-    </recent_temporary>
+    <list size="0" />
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="StructureViewFactory">
-    <option name="ACTIVE_ACTIONS" value="ALPHA_COMPARATOR" />
-  </component>
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
-    <option name="USER" value="" />
-    <option name="PASSWORD" value="" />
-    <option name="mySSHConnectionTimeout" value="30000" />
-    <option name="mySSHReadTimeout" value="30000" />
-    <option name="LAST_MERGED_REVISION" />
-    <option name="MERGE_DRY_RUN" value="false" />
-    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
-    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
-    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
-    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
-    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
-    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
-    <option name="FORCE_UPDATE" value="false" />
-    <option name="IGNORE_EXTERNALS" value="false" />
-    <configuration useDefault="false">C:\Users\patrick\AppData\Roaming\Subversion</configuration>
-    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="90008703-b5f5-42b7-86d5-cc219a8cb586" name="Default" comment="" />
-      <created>1378130226588</created>
-      <updated>1378130226588</updated>
+      <changelist id="c65d2e9f-4449-490f-b119-f213dbf5929a" name="Default" comment="" />
+      <created>1391876795925</created>
+      <updated>1391876795925</updated>
     </task>
-    <task id="LOCAL-00001" summary="rework of testing framework">
-      <created>1379001961385</created>
-      <updated>1379001961385</updated>
-    </task>
-    <task id="LOCAL-00002" summary="update user_accesses_the_search_page">
-      <created>1379007778146</created>
-      <updated>1379007778146</updated>
-    </task>
-    <task id="LOCAL-00003" summary="minor name change &quot;User sees the next choice after trip selection&quot;">
-      <created>1379016180258</created>
-      <updated>1379016180258</updated>
-    </task>
-    <task id="LOCAL-00004" summary="minor name change &quot;User sees the next choice after trip selection&quot;">
-      <created>1379016458568</created>
-      <updated>1379016458568</updated>
-    </task>
-    <task id="LOCAL-00005" summary="minor name change &quot;User sees the next choice after trip selection&quot;">
-      <created>1379019721544</created>
-      <updated>1379019721544</updated>
-    </task>
-    <task id="LOCAL-00006" summary="minor cleanup 30914">
-      <created>1379153315885</created>
-      <updated>1379153315885</updated>
-    </task>
-    <task id="LOCAL-00007" summary="minor cleanup 30914">
-      <created>1379248886775</created>
-      <updated>1379248886775</updated>
-    </task>
-    <task id="LOCAL-00008" summary="updated &quot;User accesses the search page&quot;">
-      <created>1379250884665</created>
-      <updated>1379250884665</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Fixed minor issues with package destinations, dates, durations and added missing unimplemented features">
-      <created>1379259580599</created>
-      <updated>1379259580599</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Fixed minor issues with package destinations, dates, durations and added missing unimplemented features">
-      <created>1379264111987</created>
-      <updated>1379264111987</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Merge branch 'master' of https://github.com/peateas/felix-features-2013&#10;&#10;Conflicts:&#10;&#9;features/user_books_a_trip/user_picks_a_trip/user_specifies_passenger_counts.feature&#10;">
-      <created>1379264856259</created>
-      <updated>1379264856259</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Merge branch 'master' of https://github.com/peateas/felix-features-2013&#10;&#10;Conflicts:&#10;&#9;features/user_books_a_trip/user_picks_a_trip/user_specifies_passenger_counts.feature&#10;">
-      <created>1379317203643</created>
-      <updated>1379317203643</updated>
-    </task>
-    <task id="LOCAL-00013" summary="minor updates for last commit">
-      <created>1379328498441</created>
-      <updated>1379328498441</updated>
-    </task>
-    <task id="LOCAL-00014" summary="updated user story for books a trip and other minor changes">
-      <created>1379332376503</created>
-      <updated>1379332376503</updated>
-    </task>
-    <task id="LOCAL-00015" summary="cleaned up User sees the next choice after trip selection">
-      <created>1379332784457</created>
-      <updated>1379332784457</updated>
-    </task>
-    <task id="LOCAL-00016" summary="step implementation and more steps">
-      <created>1379335500678</created>
-      <updated>1379335500678</updated>
-    </task>
-    <task id="LOCAL-00017" summary="updated user sees trip details selection">
-      <created>1379335960061</created>
-      <updated>1379335960061</updated>
-    </task>
-    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1612" height="876" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.48184356" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.5928571" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3890785" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48189417" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38106236" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32729805" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23558283" sideWeight="0.6208426" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23096775" sideWeight="0.5181564" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3924581" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24967742" sideWeight="0.67270195" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40614334" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32678983" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -1227,7 +358,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated user sees trip details selection" />
+    <option name="LAST_COMMIT_MESSAGE" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1241,284 +372,9 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="rework of testing framework" />
-    <MESSAGE value="update user_accesses_the_search_page" />
-    <MESSAGE value="minor name change &quot;User sees the next choice after trip selection&quot;" />
-    <MESSAGE value="minor cleanup 30914" />
-    <MESSAGE value="updated &quot;User accesses the search page&quot;" />
-    <MESSAGE value="Fixed minor issues with package destinations, dates, durations and added missing unimplemented features" />
-    <MESSAGE value="Merge branch 'master' of https://github.com/peateas/felix-features-2013&#10;&#10;Conflicts:&#10;&#9;features/user_books_a_trip/user_picks_a_trip/user_specifies_passenger_counts.feature&#10;" />
-    <MESSAGE value="minor updates for last commit" />
-    <MESSAGE value="updated user story for books a trip and other minor changes" />
-    <MESSAGE value="cleaned up User sees the next choice after trip selection" />
-    <MESSAGE value="step implementation and more steps" />
-    <MESSAGE value="updated user sees trip details selection" />
-  </component>
-  <component name="VssConfiguration">
-    <option name="CLIENT_PATH" value="" />
-    <option name="SRCSAFEINI_PATH" value="" />
-    <option name="USER_NAME" value="" />
-    <option name="PWD" value="" />
-    <CheckoutOptions>
-      <option name="COMMENT" value="" />
-      <option name="DO_NOT_GET_LATEST_VERSION" value="false" />
-      <option name="REPLACE_WRITABLE" value="false" />
-      <option name="RECURSIVE" value="false" />
-    </CheckoutOptions>
-    <CheckinOptions>
-      <option name="COMMENT" value="" />
-      <option name="KEEP_CHECKED_OUT" value="false" />
-      <option name="RECURSIVE" value="false" />
-    </CheckinOptions>
-    <AddOptions>
-      <option name="STORE_ONLY_LATEST_VERSION" value="false" />
-      <option name="CHECK_OUT_IMMEDIATELY" value="false" />
-    </AddOptions>
-    <UndocheckoutOptions>
-      <option name="MAKE_WRITABLE" value="false" />
-      <option name="REPLACE_LOCAL_COPY" value="2" />
-      <option name="RECURSIVE" value="false" />
-    </UndocheckoutOptions>
-    <GetOptions>
-      <option name="REPLACE_WRITABLE" value="0" />
-      <option name="MAKE_WRITABLE" value="false" />
-      <option name="ANSWER_NEGATIVELY" value="false" />
-      <option name="ANSWER_POSITIVELY" value="false" />
-      <option name="RECURSIVE" value="false" />
-      <option name="VERSION" />
-    </GetOptions>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$CLASS$/bin/jruby-1.7.4/lib/ruby/gems/shared/gems/cucumber-1.3.5/lib/cucumber/runtime.rb</url>
-          <line>173</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$CLASS$/bin/jruby-1.7.4/lib/ruby/gems/shared/gems/cucumber-1.3.5/bin/cucumber</url>
-          <line>12</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$CLASS$/bin/jruby-1.7.4/lib/ruby/gems/shared/gems/cucumber-1.3.5/lib/cucumber/runtime.rb</url>
-          <line>47</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$CLASS$/Users/patrick/IdeaProjects/logger/features/step_definitions/logger_steps.rb</url>
-          <line>5</line>
-          <option name="timeStamp" value="58" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$CLASS$/Users/patrick/IdeaProjects/cucumber-utilities/features/step_definitions/meta_steps.rb</url>
-          <line>6</line>
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/features/step_definitions/meta_steps.rb</url>
-          <line>11</line>
-          <option name="timeStamp" value="94" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/features/step_definitions/login_steps.rb</url>
-          <line>30</line>
-          <option name="timeStamp" value="100" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/features/step_definitions/login_steps.rb</url>
-          <line>20</line>
-          <option name="timeStamp" value="102" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$CLASS$/bin/jruby-1.7.4/lib/ruby/gems/shared/gems/poltergeist-1.4.1/lib/capybara/poltergeist/client/compiled/web_page.js</url>
-          <line>17</line>
-          <option name="timeStamp" value="71" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$CLASS$/bin/jruby-1.7.4/lib/ruby/gems/shared/gems/poltergeist-1.4.1/lib/capybara/poltergeist/client/compiled/browser.js</url>
-          <line>106</line>
-          <option name="timeStamp" value="75" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="103" />
-    </breakpoint-manager>
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="42" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$CLASS$/bin/jruby-1.7.4/lib/ruby/gems/shared/gems/capybara-2.1.0/lib/capybara.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="26" selection-start="510" selection-end="510" vertical-scroll-proportion="0.047222223" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/support/env.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="23" selection-start="1336" selection-end="1340" vertical-scroll-proportion="0.34048256" />
-      </provider>
-    </entry>
-    <entry file="file://$CLASS$/Users/patrick/IdeaProjects/cucumber-utilities/features/step_definitions/meta_steps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logger.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="113" column="17" selection-start="5572" selection-end="5572" vertical-scroll-proportion="-11.48">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/default-140206-1859-53322.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/default.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$CLASS$/Users/patrick/IdeaProjects/logger/default-140207-2339-13954.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$CLASS$/Users/patrick/IdeaProjects/logger/default-140207-2138-05955.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$CLASS$/Users/patrick/IdeaProjects/logger/default.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$CLASS$/Users/patrick/IdeaProjects/logger/source/logger.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="29" selection-start="43" selection-end="43" vertical-scroll-proportion="0.10493827">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.44027305" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.44027305" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>xml-simple (v1.1.2, jruby-1.7.4-p392) [gem]</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.44027305" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>jruby-1.7.4-p392</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.44027305" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>logger</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.44027305" />
-                <option value="0.5" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>java-1.7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.44027305" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <breakpoint-manager />
   </component>
 </project>
 
