@@ -35,6 +35,8 @@ Then(/^I (do|do not) see (information|warning) in the (console|.* log)$/) do |no
       message = @warning
     when 'information'
       message = @message
+    else
+      raise 'should be able to get here'
   end
   case where
     when 'console'
@@ -43,26 +45,29 @@ Then(/^I (do|do not) see (information|warning) in the (console|.* log)$/) do |no
           puts("you should see a log for '#{message}' on the console")
         when 'do not'
           puts("you should not see a log for '#{message}' on the console")
+        else
+          raise 'should be able to get here'
       end
     else
       where =~ /(.*) log/
       filename = "#{$1}.log"
-      File.should exist(filename)
-      found=false;
+      expect(File).to exist(filename)
+      found=false
       File.new(filename).each_line do |line|
-        if line=~Regexp.new("#{message}")
+        if line=~Regexp.new(Regexp.quote(message))
           found = true
-          break;
+          break
         else
-          Regexp.new("#{message}", 0)
           found = false
         end
       end
       case no
         when 'do'
-          found.should be_true, "#{message} not in log"
+          expect(found).to be(true), "#{message} not in log"
         when 'do not'
-          found.should be_false, "#{message} in log but shouldn't be"
+          expect(found).to be(false), "#{message} in log but shouldn't be"
+        else
+          raise 'should be able to get here'
       end
   end
 end
