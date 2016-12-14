@@ -3,6 +3,8 @@ Feature:  Routines log activity
   I want log information
   So that a user may view my activity
 
+  NOTE:  THIS USES ONLY LOG4R NOW AND PROVIDES NO SPECIAL CLASSES SO IT IS REALLY ONLY AN EXAMPLE OF HOW TO USE LOG4R
+
   Scenario:  Simple console and default log warnings
     Given no existing log files for a name
     And some running code that wants to log to a name
